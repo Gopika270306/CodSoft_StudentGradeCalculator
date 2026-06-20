@@ -1,0 +1,31 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Spring Boot
+application-local.properties
+
+# Temporary Files
+*.tmp
+*.swp
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.properties
+
+# Build Files
+dependency-reduced-pom.xml
